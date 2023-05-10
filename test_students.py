@@ -61,3 +61,7 @@ class TestStudent(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+   # installation terminal commands 
+   # pip3 list
+   # pip3 install requests==2.26.0 
